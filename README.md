@@ -143,6 +143,84 @@ GET /api/v1/account/usage
 
 ---
 
+## 🌐 **Browser Extension**
+
+### **Temp Mail by Boomlify - Chrome Extension**
+
+Transform your browsing experience with the official **Boomlify Chrome Extension** - the most powerful temporary email tool for your browser.
+
+**[🔄 Install from Chrome Web Store](https://chromewebstore.google.com/detail/temp-mail-by-boomlify/ejdcjnnkfekidnakgdfiehegbnfnceoe)**
+
+#### **🎯 Key Extension Features**
+
+##### **⚡ Instant Email Generation**
+- **One-click creation**: Generate temporary emails instantly from any webpage
+- **Popup interface**: Quick access without navigating away from your current site
+- **Multiple domains**: Choose from various temp mail domains
+- **Custom domains**: Use your own verified domains through the extension
+
+##### **🔧 Auto-Fill Integration**
+- **Smart detection**: Automatically detects email input fields
+- **One-click fill**: Fill email fields with generated addresses instantly
+- **Form completion**: Streamline registration and signup processes
+- **Cross-site compatibility**: Works on any website with email fields
+
+##### **📧 Real-Time Inbox Management**
+- **Live notifications**: Instant alerts when new emails arrive
+- **Inbox preview**: View email content directly in the extension
+- **Message threading**: Group related emails in conversations
+- **Advanced search**: Find specific emails by sender, subject, or content
+
+##### **🛡️ Enhanced Privacy Features**
+- **Zero tracking**: No data collection or analytics
+- **Automatic cleanup**: Emails expire and are permanently deleted
+- **Secure rendering**: Sanitized HTML content for safe viewing
+- **Anonymous browsing**: No personal information required
+
+##### **⚙️ Advanced Functionality**
+- **Gmail integration**: Create Gmail aliases with dot notation and plus addressing
+- **Cross-tab sync**: Access your emails across all browser tabs
+- **Keyboard shortcuts**: Quick access with customizable hotkeys
+- **Dark mode**: Comfortable viewing in any lighting condition
+- **Export options**: Download emails in EML or TXT format
+- **Bulk operations**: Select, delete, or manage multiple emails at once
+
+#### **🚀 Installation & Setup**
+
+1. **Visit Chrome Web Store**: [Temp Mail by Boomlify](https://chromewebstore.google.com/detail/temp-mail-by-boomlify/ejdcjnnkfekidnakgdfiehegbnfnceoe)
+2. **Click "Add to Chrome"**: Install the extension in one click
+3. **Pin to toolbar**: For quick access to temp mail generation
+4. **Configure settings**: Set up custom domains and preferences
+5. **Start using**: Generate emails instantly from any website
+
+#### **💡 Use Cases**
+
+##### **🛒 E-commerce Testing**
+- **Account creation**: Test registration flows with disposable emails
+- **Order testing**: Verify order confirmation emails
+- **Newsletter signups**: Avoid spam in your main inbox
+- **Promotional offers**: Test discount codes and deals
+
+##### **🧪 Development & QA**
+- **Form testing**: Validate email input functionality
+- **User registration**: Test signup and verification flows
+- **Password reset**: Verify recovery email processes
+- **Email templates**: Test email rendering and content
+
+##### **🔒 Privacy Protection**
+- **Social media**: Create accounts without exposing personal email
+- **Newsletter subscriptions**: Avoid unwanted marketing emails
+- **File downloads**: Access content without email requirements
+- **Temporary access**: One-time email addresses for quick tasks
+
+#### **📊 Extension Statistics**
+- **Downloads**: 50,000+ active users
+- **Rating**: 4.8/5 stars on Chrome Web Store
+- **Compatibility**: Chrome, Edge, and Chromium-based browsers
+- **Updates**: Regular feature updates and security patches
+
+---
+
 ## 🌍 **Multilingual Support**
 
 Boomlify supports **15 languages** with complete localization:
@@ -213,6 +291,23 @@ Boomlify supports **15 languages** with complete localization:
 - **QR code sharing**: Easy mobile access to temporary emails
 - **Progressive Web App**: Offline functionality and app-like experience
 - **Cross-device sync**: Access emails from any device with account
+
+### 🌐 **Browser Extension**
+- **Chrome Web Store**: [Temp Mail by Boomlify](https://chromewebstore.google.com/detail/temp-mail-by-boomlify/ejdcjnnkfekidnakgdfiehegbnfnceoe)
+- **One-click access**: Generate temporary emails directly from your browser
+- **Popup interface**: Quick email generation without leaving your current page
+- **Auto-fill integration**: Automatically fill email fields with generated addresses
+- **Real-time notifications**: Instant alerts when emails arrive
+- **Inbox management**: View and manage emails directly in the extension
+- **Custom domain support**: Use your own domains through the extension
+- **Gmail integration**: Create Gmail aliases with dot notation and plus addressing
+- **Privacy protection**: No tracking, automatic cleanup, secure by design
+- **Cross-tab sync**: Access your emails across all browser tabs
+- **Keyboard shortcuts**: Quick access with customizable hotkeys
+- **Dark mode support**: Comfortable viewing in any lighting condition
+- **Export functionality**: Download emails in EML or TXT format
+- **Search capabilities**: Find specific emails quickly
+- **Bulk operations**: Select, delete, or manage multiple emails at once
 
 ---
 
@@ -374,6 +469,7 @@ print(f"Order confirmed: {order_confirmation.subject}")
 | **Email Analytics** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **Advanced Search** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **Email Export** | ✅ | ❌ | ❌ | ✅ | ❌ |
+| **Browser Extension** | ✅ Chrome Store | ❌ | ❌ | ❌ | ❌ |
 
 ### **vs. Email Testing Services**
 
@@ -391,6 +487,7 @@ print(f"Order confirmed: {order_confirmation.subject}")
 | **WebSocket Support** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **Credit System** | ✅ | ❌ | ❌ | ❌ | ❌ |
 | **Subscription Management** | ✅ | ❌ | ❌ | ❌ | ❌ |
+| **Browser Extension** | ✅ Chrome Store | ❌ | ❌ | ❌ | ❌ |
 
 ### **vs. Spanish Market Competitors**
 
@@ -416,6 +513,7 @@ print(f"Order confirmed: {order_confirmation.subject}")
 | **Custom Domains** | ✅ | ❌ | ❌ | ❌ |
 | **Smart Inbox** | ✅ | ❌ | ❌ | ❌ |
 | **Modern UI** | ✅ | ❌ | ⚠️ Basic | ❌ |
+| **Browser Extension** | ✅ Chrome Store | ❌ | ❌ | ❌ |
 
 ---
 
@@ -595,6 +693,7 @@ This README is optimized for the following high-volume search terms:
 - **[Try Instant Temp Mail](https://boomlify.com/temp-mail-instant)** - No registration required
 - **[View API Documentation](https://boomlify.com/api)** - Developer resources
 - **[Explore Features](https://boomlify.com/features)** - Complete feature overview
+- **[Chrome Extension](https://chromewebstore.google.com/detail/temp-mail-by-boomlify/ejdcjnnkfekidnakgdfiehegbnfnceoe)** - Install browser extension
 
 ### **Get Started in 30 Seconds**
 1. Visit [Boomlify.com](https://boomlify.com/)
